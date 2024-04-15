@@ -5,7 +5,7 @@ Welcome to my GitHub profile! Here you'll find projects I'm working on, ideas I'
 
 ## About Me
 
-I'm a software developer with a passion for building scalable applications and exploring new technologies. I have a strong interest in machine learning, web development, and open source collaboration.
+I'm a software developer with a passion for building scalable applications and exploring new technologies. I have a strong interest in backend development, web development, and open source collaboration.
 
 ## My Projects
 
