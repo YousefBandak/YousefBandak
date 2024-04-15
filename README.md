@@ -1,5 +1,5 @@
 
-# Hello, I'm Yousef Bandak!
+# Hello, I'm Yousef Albandak!
 
 Welcome to my GitHub profile! Here you'll find projects I'm working on, ideas I'm exploring, and resources I find valuable in my software development journey.
 
