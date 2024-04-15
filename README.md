@@ -26,7 +26,7 @@ You can check out more of my projects [here](https://github.com/YousefBandak?tab
 
 ## Connect with Me
 
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/yousef-albandak-4955932a7)
+- **LinkedIn**: [www.linkedin.com/in/yousef-albandak-4955932a7](https://www.linkedin.com/in/yousef-albandak-4955932a7/)
 
 ## How to Contribute
 
