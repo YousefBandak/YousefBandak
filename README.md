@@ -20,8 +20,8 @@ You can check out more of my projects [here](https://github.com/YousefBandak?tab
 
 ## Skills
 
-- **Languages**:  Java, JavaScript, Python
-- **Frameworks**:Springboot, React
+- **Languages**:  Java, Python, C++, C#, JavaScript
+- **Frameworks**:Springboot, ASP.NET React
 - **Tools**: GitHub
 
 ## Connect with Me
